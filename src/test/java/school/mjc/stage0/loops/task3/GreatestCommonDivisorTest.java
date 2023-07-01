@@ -38,6 +38,6 @@ class GreatestCommonDivisorTest extends BaseIOTest {
 
         divisor.printGCD(0, 30);
 
-        assertOutEquals("30\n");
+        assertOutEquals("30");
     }
 }
